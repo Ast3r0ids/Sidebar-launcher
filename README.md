@@ -11,3 +11,4 @@ To add more icons:
 6. Rename the title to the app you want
 7. Change the icon and add the filepath
 8. Enjoy!
+9. The spacing underneath is 70ppx, but you can change it if you want
